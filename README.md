@@ -1,4 +1,4 @@
-#:crown:Make Your Term BOSS :crown:
+#:crown: Make Your Term BOSS :crown:
 
 * [Antigen](https://github.com/zsh-users/antigen)
 * [k](https://github.com/rimraf/k)
